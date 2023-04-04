@@ -1,0 +1,14 @@
+D:\гитхаб разработки\OOP\Laba2\bin\Debug\netcoreapp3.1\Laba2.exe
+D:\гитхаб разработки\OOP\Laba2\bin\Debug\netcoreapp3.1\Laba2.deps.json
+D:\гитхаб разработки\OOP\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.json
+D:\гитхаб разработки\OOP\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.dev.json
+D:\гитхаб разработки\OOP\Laba2\bin\Debug\netcoreapp3.1\Laba2.dll
+D:\гитхаб разработки\OOP\Laba2\bin\Debug\netcoreapp3.1\Laba2.pdb
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.AssemblyReference.cache
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfoInputs.cache
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfo.cs
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.CoreCompileInputs.cache
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.dll
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.pdb
+D:\гитхаб разработки\OOP\Laba2\obj\Debug\netcoreapp3.1\Laba2.genruntimeconfig.cache
