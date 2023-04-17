@@ -1,0 +1,14 @@
+D:\гитхаб разработки\OOP\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.exe
+D:\гитхаб разработки\OOP\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.deps.json
+D:\гитхаб разработки\OOP\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.runtimeconfig.json
+D:\гитхаб разработки\OOP\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.runtimeconfig.dev.json
+D:\гитхаб разработки\OOP\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.dll
+D:\гитхаб разработки\OOP\Lab3.2\bin\Debug\netcoreapp3.1\Lab3.2.pdb
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.csproj.AssemblyReference.cache
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.AssemblyInfoInputs.cache
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.AssemblyInfo.cs
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.csproj.CoreCompileInputs.cache
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.dll
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.pdb
+D:\гитхаб разработки\OOP\Lab3.2\obj\Debug\netcoreapp3.1\Lab3.2.genruntimeconfig.cache
