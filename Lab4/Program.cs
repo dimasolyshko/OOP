@@ -99,9 +99,9 @@ namespace Lab4
             Console.WriteLine("Тест с пользовательским типом данных Person:");
             Person[] people = new Person[]
             {
-               new Person("Alice", 20),
-               new Person("Bob", 25),
-               new Person("Charlie", 30),
+               new Person("Dima", 20),
+               new Person("Disoland", 25),
+               new Person("Alexander", 30),
             };
 
             MyArray<Person> k = new MyArray<Person>(people);
